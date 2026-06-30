@@ -1,0 +1,152 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Base reset ───────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  background-color: #0A0A0B;
+  color: #E8E6E1;
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Scrollbar ────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #26262B; border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: #3A3A42; }
+
+/* ── Paper grain texture (evidence surface only) ─────────── */
+@keyframes grain {
+  0%, 100% { transform: translate(0, 0); }
+  10%       { transform: translate(-1%, -1%); }
+  20%       { transform: translate(1%, 1%); }
+  30%       { transform: translate(-1%, 0%); }
+  40%       { transform: translate(1%, -1%); }
+  50%       { transform: translate(-1%, 1%); }
+}
+
+.paper-grain::after {
+  content: '';
+  position: absolute;
+  inset: -20%;
+  width: 140%; height: 140%;
+  pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='1'/%3E%3C/svg%3E");
+  opacity: 0.028;
+  animation: grain 8s steps(10) infinite;
+  border-radius: inherit;
+}
+
+/* ── Small-caps label ─────────────────────────────────────── */
+.label-caps {
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* ── Ledger table ─────────────────────────────────────────── */
+.ledger {
+  width: 100%;
+  border-collapse: collapse;
+}
+.ledger thead th {
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6B6B72;
+  padding: 8px 14px;
+  text-align: left;
+  border-bottom: 1px solid #26262B;
+}
+.ledger thead th.num { text-align: right; }
+.ledger tbody td {
+  padding: 10px 14px;
+  border-bottom: 1px solid #26262B;
+  font-size: 12px;
+  color: #E8E6E1;
+  vertical-align: middle;
+}
+.ledger tbody td.num {
+  text-align: right;
+  font-family: var(--font-geist-mono), monospace;
+  font-variant-numeric: tabular-nums;
+}
+.ledger tbody tr:hover td { background: #17171E; }
+.ledger tbody tr:last-child td { border-bottom: none; }
+
+/* Evidence-surface ledger (paper) */
+.ledger-paper thead th {
+  color: #7A7269;
+  border-bottom: 1px solid #D8D2C4;
+}
+.ledger-paper tbody td {
+  color: #1A1814;
+  border-bottom: 1px solid #D8D2C4;
+}
+.ledger-paper tbody tr:hover td { background: #EDE9DF; }
+
+/* ── Readout numeral ──────────────────────────────────────── */
+.readout-value {
+  font-family: var(--font-geist-mono), monospace;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum';
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+/* ── Evidence Seal ────────────────────────────────────────── */
+@keyframes seal-press {
+  0%   { transform: scale(1.1) rotate(-3deg); opacity: 0; filter: blur(1px); }
+  60%  { transform: scale(0.97) rotate(0.5deg); opacity: 0.9; filter: blur(0); }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; filter: blur(0); }
+}
+.seal-animate { animation: seal-press 0.25s ease-out forwards; }
+
+/* ── Signal trace ─────────────────────────────────────────── */
+.trace-draw {
+  stroke-dasharray: 2000;
+  stroke-dashoffset: 2000;
+  animation: trace-in 1.2s ease-out forwards;
+}
+@keyframes trace-in {
+  to { stroke-dashoffset: 0; }
+}
+
+/* ── Readout counter tick ─────────────────────────────────── */
+@keyframes tick-up {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.tick-animate { animation: tick-up 0.15s ease-out forwards; }
+
+/* ── Focus outline (no glow) ─────────────────────────────── */
+*:focus-visible {
+  outline: 1px solid #9B2C22;
+  outline-offset: 2px;
+}
+
+/* ── Hairline divider ─────────────────────────────────────── */
+.rule { border: none; border-top: 1px solid #26262B; }
+.rule-paper { border: none; border-top: 1px solid #D8D2C4; }
+
+/* ── MapLibre popup override ──────────────────────────────── */
+.maplibregl-popup-content {
+  background: #101015 !important;
+  color: #E8E6E1 !important;
+  border: 1px solid #26262B !important;
+  border-radius: 2px !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
+.maplibregl-popup-tip { border-top-color: #26262B !important; }

@@ -1,0 +1,3202 @@
+[
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 60,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 300,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is Kotak bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 500,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 310,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 460,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 906181. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 50,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 70,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 60,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 160,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 360,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 200,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 420,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 420,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is ICICI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 480,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 698220. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at Kotak. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Kumar from CBI. You have a case registered against you for money laundering. You need to pay 200,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 380,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 250,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 220,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 210,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 9662 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 100,000 was successful. Reference number REF120026.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 230,000 was successful. Reference number REF150324.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 210,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Amazon service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 611245. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Calling from BigBasket service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 50,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 390,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 300,000 was successful. Reference number REF154906.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 140,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 170,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 300,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 230,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 470,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 320,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 330,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 340,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from PNB. Your account ending 1000 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 828994. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 120,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 90,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 330,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 320,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 410,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 216878. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 370,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 230,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from Axis. Your account ending 4654 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 100,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 310,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 440,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 334156. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 490,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 130,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 544523. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 130,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is Axis bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 150,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 100,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from Kotak. Your account ending 7169 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 50,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 300,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at PNB. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD153961 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at SBI. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 170,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from Axis. Your account ending 7568 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 250,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 340141. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 50,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 60,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 915986. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Amazon service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 894975. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "This is Axis bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 270,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 5897 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at PNB. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 350,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 370,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 300,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 80,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 360,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 230,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 330,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 430407. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Gupta from CBI. You have a case registered against you for money laundering. You need to pay 420,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 460,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 240,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Verma from CBI. You have a case registered against you for money laundering. You need to pay 480,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 490,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 380,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 490,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Rao from CBI. You have a case registered against you for money laundering. You need to pay 450,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 220,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Amazon service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 490,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at Axis. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 260,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 230,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 100,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Joshi from CBI. You have a case registered against you for money laundering. You need to pay 390,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 260,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 210,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 320,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 480,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 290,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 230,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 320,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 100,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 290,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 230,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 360,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 605170. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 390,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 500,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 440,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 290,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 290,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 180,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 50,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 290,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 150,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 360,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 792177. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 60,000 was successful. Reference number REF320938.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 490,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 270,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 380,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 320,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 150,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 190,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 250,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is Axis bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 120,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 90,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 340,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 220,000 was successful. Reference number REF608520.",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 250,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 450,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 180,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at HDFC. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 210,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 230,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from ICICI. Your account ending 8763 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 430,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 250,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 220,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 270,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 200,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 240,000 was successful. Reference number REF397511.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 100,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 290,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at PNB. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 350,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 290,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is PNB bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is HDFC bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 310,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 420,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 450,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is ICICI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 290,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 90,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 440,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 60,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 140,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 170,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 110,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Sharma from CBI. You have a case registered against you for money laundering. You need to pay 380,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 499472. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 290,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is ICICI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 290,000 was successful. Reference number REF975829.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 200,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 120,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 160,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 320,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 160,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 390,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 370,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 350,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Zomato service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 170,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 340,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 370,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 460,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 260,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from SBI. Your account ending 7674 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 390,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 240,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Kumar from CBI. You have a case registered against you for money laundering. You need to pay 90,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at Axis. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is PNB bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 490,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 260,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Sharma from CBI. You have a case registered against you for money laundering. You need to pay 110,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD883863 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 440,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 190,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 310,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from Kotak. Your account ending 5962 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 490,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 220,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at Kotak. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 350,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 190,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is Kotak bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 50,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 250,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 170,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 210,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 440,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 430,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 180,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 320,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 250,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is Kotak bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 470,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 350,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 320,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 260,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 470,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 408511. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 390,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 460,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 420,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 60,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at HDFC. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at Axis. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 460,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 370,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 380,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 420,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 270,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 300,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 220,000 was successful. Reference number REF442011.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 320,000 was successful. Reference number REF533589.",
+    "label": 0
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 100,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Amazon service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 176949. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 956890. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 340,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 300,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 250,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 430,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 450,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 370,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD650040 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Amazon service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Patel from CBI. You have a case registered against you for money laundering. You need to pay 170,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 220,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 220,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 160,000 was successful. Reference number REF716936.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 60,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 260,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 250,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 180,000 was successful. Reference number REF275157.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 460,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 500,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is HDFC bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 881977. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 200,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Patel from CBI. You have a case registered against you for money laundering. You need to pay 380,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 380,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 280,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 605383. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 256366. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 200,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 70,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 320,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 110,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 260,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 310,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 360,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 270,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 100,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 170,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 440,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 190,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 190,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 400,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 70,000 was successful. Reference number REF892994.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 450,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 470,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 410,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is HDFC bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is officer Rao from CBI. You have a case registered against you for money laundering. You need to pay 260,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 100,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at SBI. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 200,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 240,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 6870 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 310,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 270,000 was successful. Reference number REF914059.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 50,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 440,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 120644. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 320,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD161276 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 420,000 was successful. Reference number REF607185.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 370,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 410,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 240,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 310,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 200,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 290,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Joshi from CBI. You have a case registered against you for money laundering. You need to pay 250,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 340,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 130,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 180,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 410,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 310,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 250,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 370,000 was successful. Reference number REF611140.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at Kotak. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 470,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 80,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 210,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 150,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD828476 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Sharma from CBI. You have a case registered against you for money laundering. You need to pay 170,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 150,000 was successful. Reference number REF361308.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 240,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 210,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 380,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 370,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Zomato service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD470076 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 260,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 4050 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 587646. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 410,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 250,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 80,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 140,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 60,000 was successful. Reference number REF521125.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 281978. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Calling from BigBasket service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 180,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 500,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 480,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 430,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 240,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 410,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 470,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Gupta from CBI. You have a case registered against you for money laundering. You need to pay 80,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 470,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from Axis. Your account ending 6422 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 260,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 340,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 420,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 80,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 470,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 90,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Calling from BigBasket service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 196207. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 90,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 360,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 350,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Joshi from CBI. You have a case registered against you for money laundering. You need to pay 490,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 190,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD344907 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 300,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD769442 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 170,000 was successful. Reference number REF104735.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 390,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 210,000 was successful. Reference number REF438417.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 230,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 390,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 260,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 430,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 200,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 500,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 140,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD625816 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from ICICI. Your account ending 9951 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 480,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 490,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 230,000 was successful. Reference number REF526993.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 310,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 270,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 90,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD606062 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 480,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at HDFC. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from Axis. Your account ending 5936 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD932205 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 360,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Zomato service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 400,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 220,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 100,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 210,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 370,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 270,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 130,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 340,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD626421 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 320,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 280,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 60,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 190,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from ICICI. Your account ending 9074 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 340,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 210,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 300,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 300,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 290,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 190,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is ICICI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 170,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 687924. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 440,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from ICICI. Your account ending 3605 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at SBI. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 500,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at ICICI. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 270,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 350,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 500,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 210,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from Kotak. Your account ending 9871 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 350,000 was successful. Reference number REF352620.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 190,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 90,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 350,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 110,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 430,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 500,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 250,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 240,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from Axis. Your account ending 1408 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 511736. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 50,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 110,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 445479. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 140,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Singh from CBI. You have a case registered against you for money laundering. You need to pay 130,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 170,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 280,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 450,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 330,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Zomato service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 60,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 180,000 was successful. Reference number REF528607.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 460,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 310,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD612725 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 1829 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 490,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 250,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 470,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 290,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 240,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 390,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 60,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 250,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Gupta from CBI. You have a case registered against you for money laundering. You need to pay 110,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD912432 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Swiggy service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 200,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 540714. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 160,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 140,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at Kotak. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is HDFC bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Zomato service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 350,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 240,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Patel from CBI. You have a case registered against you for money laundering. You need to pay 100,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 230,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 260,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 130,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 500,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 50,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 100,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 758127. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 490,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 140,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 160,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 390,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 90,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 90,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 380,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 490,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 430,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 4323 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 180,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at Kotak. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 160,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at Axis. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 986571. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is Kotak bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 170,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 240,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 600227. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 270,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD616869 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "This is a recorded message from BSNL. Your broadband connection has been upgraded successfully.",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 480,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 130,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 360,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 370,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 150,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD595382 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 340,000 was successful. Reference number REF370287.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 230,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 500,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 120,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD861163 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "This is PNB bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 430,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 180,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "Hello, your electricity bill payment of 290,000 was successful. Reference number REF420962.",
+    "label": 0
+  },
+  {
+    "text": "This is SBI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 270,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 170,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 180,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 300,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Your Aadhaar card has been misused by criminals. Enforcement Directorate has issued a warrant. Transfer 440,000 to our safe account to protect your identity immediately.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 310,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 370,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 500,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "You have won a government lottery worth 130,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Flipkart service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 80,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Calling from BigBasket service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 450,000 was successful. Reference number REF940927.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 250,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 50,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Sharma from CBI. You have a case registered against you for money laundering. You need to pay 220,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 450,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 80,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 350,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 240,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "This is the Cybercrime Cell. Your IP address was flagged for illegal downloads. Pay 180,000 as settlement or face a jail term of 3 years.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 350,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 430,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is ICICI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 370,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 247404. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 150,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "Your order ORD966608 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 140,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 280,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 210,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 290,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "Your mutual fund SIP of 200,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Customs has seized a parcel with your name containing illegal items. Pay 230,000 immediately or face criminal charges. Time is running out.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 100,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is officer Singh from CBI. You have a case registered against you for money laundering. You need to pay 380,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is ICICI bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "You have won a government lottery worth 130,000. To claim, share your bank account number, OTP and PAN card. This offer expires in 30 minutes.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 160,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 460,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Your OTP for login is 487232. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 300280. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "I am from the Income Tax Department. We have found discrepancies in your returns. You must pay 240,000 as penalty immediately. Share your Aadhaar and PAN card details to proceed.",
+    "label": 1
+  },
+  {
+    "text": "Supreme court directive requires you to pay outstanding dues of 120,000. Failure to comply will result in imprisonment. Call back within one hour.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Joshi from CBI. You have a case registered against you for money laundering. You need to pay 320,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 500,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 390,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "This is HDFC bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 260,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at Axis. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 130,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 230,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 460,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "Your loan application has been processed. Please check your email for details.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Zomato service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "This is officer Gupta from CBI. You have a case registered against you for money laundering. You need to pay 50,000 rupees immediately to avoid arrest. Do not tell anyone about this call.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 340,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "Your order ORD929665 has been shipped and will arrive in 2-3 business days.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 410,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "Hello, I'm calling from the survey team. We'd like to take 2 minutes of your time for feedback about our service.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at Kotak. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 350,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "This is the customs department. A parcel in your name contains contraband. You will be detained unless you transfer 70,000 for clearance. Keep this call confidential.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at ICICI. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Thank you for using our services. Your feedback helps us improve. How was your recent experience?",
+    "label": 0
+  },
+  {
+    "text": "Your OTP for login is 381258. Please do not share this with anyone. This is valid for 10 minutes.",
+    "label": 0
+  },
+  {
+    "text": "Calling from BigBasket service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 440,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "CBI officer speaking. An FIR has been registered in your name. You are under digital arrest. Do not leave your home. Pay 420,000 via NEFT to settle this case urgently.",
+    "label": 1
+  },
+  {
+    "text": "We are calling to update your KYC records at HDFC. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is TRAI cyber crime cell. Your SIM is being used for fraudulent activities. Stay on the video call and do not hang up. Send 120,000 via UPI for account verification.",
+    "label": 1
+  },
+  {
+    "text": "High court has issued a notice against you. Police will arrive at your address unless you pay 110,000 right now. This is your last chance. Don't tell anyone.",
+    "label": 1
+  },
+  {
+    "text": "Your bank account will be frozen due to suspicious transactions. Transfer 60,000 to avoid freezing. Share your account number and CVV for verification.",
+    "label": 1
+  },
+  {
+    "text": "Reminder: Your vehicle insurance is due for renewal next month. Our agent can assist you.",
+    "label": 0
+  },
+  {
+    "text": "We are calling to update your KYC records at HDFC. Please visit the nearest branch with your documents.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 410,000 was successful. Reference number REF718204.",
+    "label": 0
+  },
+  {
+    "text": "Hi, this is customer care from HDFC. Your account ending 5429 had a recent transaction. Please confirm if it was you.",
+    "label": 0
+  },
+  {
+    "text": "Your mutual fund SIP of 50,000 has been processed for this month.",
+    "label": 0
+  },
+  {
+    "text": "Hello, your electricity bill payment of 330,000 was successful. Reference number REF809907.",
+    "label": 0
+  },
+  {
+    "text": "This is PNB bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is the hospital appointment desk. Your check-up is confirmed for Saturday morning.",
+    "label": 0
+  },
+  {
+    "text": "This is NIA headquarters. Your phone is being monitored for terrorist communication. You must stay on camera and transfer 120,000 for security clearance.",
+    "label": 1
+  },
+  {
+    "text": "Calling from Enforcement Directorate. Your bank account has been flagged for illegal transactions. You must transfer 270,000 to this secure account within 2 hours or you will be arrested.",
+    "label": 1
+  },
+  {
+    "text": "This is Kotak bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "I am a senior officer from CID. A criminal is using your identity. You must hand over your account access and pay 70,000 to secure your profile.",
+    "label": 1
+  },
+  {
+    "text": "This is Kotak bank. We are calling to inform you about our new savings account offer with 7.5% interest.",
+    "label": 0
+  },
+  {
+    "text": "This is a reminder about your EMI payment due on the 5th. Please ensure funds are available. Thank you.",
+    "label": 0
+  },
+  {
+    "text": "Calling from Amazon service team. Your appointment is scheduled for tomorrow at 3 PM. Please call back to confirm.",
+    "label": 0
+  }
+]

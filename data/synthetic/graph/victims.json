@@ -1,0 +1,254 @@
+[
+  {
+    "id": "VIC-DECFB258",
+    "node_type": "victim",
+    "name": "Priya Patel",
+    "city": "Indore",
+    "amount_lost": 34702,
+    "report_date": "2026-06-19T11:02:49.590705",
+    "label": "V-VIC-DE"
+  },
+  {
+    "id": "VIC-B93A433F",
+    "node_type": "victim",
+    "name": "Amit Kumar",
+    "city": "Indore",
+    "amount_lost": 366768,
+    "report_date": "2026-06-09T11:02:49.590719",
+    "label": "V-VIC-B9"
+  },
+  {
+    "id": "VIC-62504691",
+    "node_type": "victim",
+    "name": "Manoj Rao",
+    "city": "Lucknow",
+    "amount_lost": 255392,
+    "report_date": "2026-06-14T11:02:49.590731",
+    "label": "V-VIC-62"
+  },
+  {
+    "id": "VIC-9B51CDF9",
+    "node_type": "victim",
+    "name": "Rajesh Sharma",
+    "city": "Surat",
+    "amount_lost": 387865,
+    "report_date": "2026-06-19T11:02:49.590741",
+    "label": "V-VIC-9B"
+  },
+  {
+    "id": "VIC-94790B3C",
+    "node_type": "victim",
+    "name": "Vijay Gupta",
+    "city": "Indore",
+    "amount_lost": 346048,
+    "report_date": "2026-06-12T11:02:49.590753",
+    "label": "V-VIC-94"
+  },
+  {
+    "id": "VIC-988D52F3",
+    "node_type": "victim",
+    "name": "Arjun Reddy",
+    "city": "Ahmedabad",
+    "amount_lost": 122321,
+    "report_date": "2026-06-18T11:02:49.590928",
+    "label": "V-VIC-98"
+  },
+  {
+    "id": "VIC-1F8B5545",
+    "node_type": "victim",
+    "name": "Mohan Das",
+    "city": "Lucknow",
+    "amount_lost": 312100,
+    "report_date": "2026-06-07T11:02:49.590939",
+    "label": "V-VIC-1F"
+  },
+  {
+    "id": "VIC-9DC96A0B",
+    "node_type": "victim",
+    "name": "Kavita Joshi",
+    "city": "Indore",
+    "amount_lost": 223416,
+    "report_date": "2026-06-16T11:02:49.590950",
+    "label": "V-VIC-9D"
+  },
+  {
+    "id": "VIC-8D1E9E1B",
+    "node_type": "victim",
+    "name": "Arjun Reddy",
+    "city": "Pune",
+    "amount_lost": 195753,
+    "report_date": "2026-06-09T11:02:49.590960",
+    "label": "V-VIC-8D"
+  },
+  {
+    "id": "VIC-FA336500",
+    "node_type": "victim",
+    "name": "Vijay Gupta",
+    "city": "Delhi",
+    "amount_lost": 476465,
+    "report_date": "2026-06-19T11:02:49.591203",
+    "label": "V-VIC-FA"
+  },
+  {
+    "id": "VIC-75178AB0",
+    "node_type": "victim",
+    "name": "Vijay Gupta",
+    "city": "Chennai",
+    "amount_lost": 327105,
+    "report_date": "2026-06-16T11:02:49.591214",
+    "label": "V-VIC-75"
+  },
+  {
+    "id": "VIC-8B9129BA",
+    "node_type": "victim",
+    "name": "Arjun Reddy",
+    "city": "Surat",
+    "amount_lost": 457171,
+    "report_date": "2026-06-14T11:02:49.591224",
+    "label": "V-VIC-8B"
+  },
+  {
+    "id": "VIC-33399706",
+    "node_type": "victim",
+    "name": "Arjun Reddy",
+    "city": "Hyderabad",
+    "amount_lost": 218910,
+    "report_date": "2026-06-12T11:02:49.591368",
+    "label": "V-VIC-33"
+  },
+  {
+    "id": "VIC-41C76DBF",
+    "node_type": "victim",
+    "name": "Priya Patel",
+    "city": "Indore",
+    "amount_lost": 156341,
+    "report_date": "2026-06-11T11:02:49.591378",
+    "label": "V-VIC-41"
+  },
+  {
+    "id": "VIC-73C09133",
+    "node_type": "victim",
+    "name": "Anita Verma",
+    "city": "Delhi",
+    "amount_lost": 439089,
+    "report_date": "2026-06-15T11:02:49.591555",
+    "label": "V-VIC-73"
+  },
+  {
+    "id": "VIC-6D6E53B1",
+    "node_type": "victim",
+    "name": "Sunita Singh",
+    "city": "Indore",
+    "amount_lost": 114401,
+    "report_date": "2026-06-18T11:02:49.591565",
+    "label": "V-VIC-6D"
+  },
+  {
+    "id": "VIC-183D3BE9",
+    "node_type": "victim",
+    "name": "Sunita Singh",
+    "city": "Ahmedabad",
+    "amount_lost": 330483,
+    "report_date": "2026-06-20T11:02:49.591576",
+    "label": "V-VIC-18"
+  },
+  {
+    "id": "VIC-775013F8",
+    "node_type": "victim",
+    "name": "Mohan Das",
+    "city": "Surat",
+    "amount_lost": 311817,
+    "report_date": "2026-06-16T11:02:49.591586",
+    "label": "V-VIC-77"
+  },
+  {
+    "id": "VIC-1D980B30",
+    "node_type": "victim",
+    "name": "Manoj Rao",
+    "city": "Ahmedabad",
+    "amount_lost": 219533,
+    "report_date": "2026-06-15T11:02:49.591596",
+    "label": "V-VIC-1D"
+  },
+  {
+    "id": "VIC-FA4219C2",
+    "node_type": "victim",
+    "name": "Lakshmi Iyer",
+    "city": "Mumbai",
+    "amount_lost": 478010,
+    "report_date": "2026-06-19T11:02:49.591607",
+    "label": "V-VIC-FA"
+  },
+  {
+    "id": "VIC-1BB05081",
+    "node_type": "victim",
+    "name": "Deepa Menon",
+    "city": "Nagpur",
+    "amount_lost": 20240,
+    "report_date": "2026-06-10T11:02:49.591735",
+    "label": "V-VIC-1B"
+  },
+  {
+    "id": "VIC-100C4E89",
+    "node_type": "victim",
+    "name": "Anita Verma",
+    "city": "Chennai",
+    "amount_lost": 405037,
+    "report_date": "2026-06-10T11:02:49.591745",
+    "label": "V-VIC-10"
+  },
+  {
+    "id": "VIC-B8C3D67C",
+    "node_type": "victim",
+    "name": "Lakshmi Iyer",
+    "city": "Nagpur",
+    "amount_lost": 296330,
+    "report_date": "2026-06-15T11:02:49.591756",
+    "label": "V-VIC-B8"
+  },
+  {
+    "id": "VIC-E983BA02",
+    "node_type": "victim",
+    "name": "Vijay Gupta",
+    "city": "Pune",
+    "amount_lost": 264616,
+    "report_date": "2026-06-22T11:02:49.591766",
+    "label": "V-VIC-E9"
+  },
+  {
+    "id": "VIC-28329011",
+    "node_type": "victim",
+    "name": "Arjun Reddy",
+    "city": "Surat",
+    "amount_lost": 428456,
+    "report_date": "2026-06-10T11:02:49.591777",
+    "label": "V-VIC-28"
+  },
+  {
+    "id": "VIC-6F7C66B2",
+    "node_type": "victim",
+    "name": "Kavita Joshi",
+    "city": "Patna",
+    "amount_lost": 76913,
+    "report_date": "2026-06-22T11:02:49.591788",
+    "label": "V-VIC-6F"
+  },
+  {
+    "id": "VIC-8C00F342",
+    "node_type": "victim",
+    "name": "Deepa Menon",
+    "city": "Surat",
+    "amount_lost": 24209,
+    "report_date": "2026-06-20T11:02:49.591810",
+    "label": "V-VIC-8C"
+  },
+  {
+    "id": "VIC-D5507B12",
+    "node_type": "victim",
+    "name": "Shweta Agarwal",
+    "city": "Ahmedabad",
+    "amount_lost": 105278,
+    "report_date": "2026-06-21T11:02:49.591821",
+    "label": "V-VIC-D5"
+  }
+]

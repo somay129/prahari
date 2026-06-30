@@ -1,0 +1,442 @@
+[
+  {
+    "id": "ACC-C6B47047",
+    "node_type": "account",
+    "label": "ACC-C6B47047",
+    "bank": "HDFC",
+    "city": "Mumbai",
+    "balance": 388786,
+    "first_seen": "2026-03-19T11:02:49.590427",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-0731C161",
+    "node_type": "account",
+    "label": "ACC-0731C161",
+    "bank": "ICICI",
+    "city": "Nagpur",
+    "balance": 53736,
+    "first_seen": "2026-01-27T11:02:49.590475",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-B58F3323",
+    "node_type": "account",
+    "label": "ACC-B58F3323",
+    "bank": "BOB",
+    "city": "Pune",
+    "balance": 16663,
+    "first_seen": "2026-04-20T11:02:49.590496",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-B47E840E",
+    "node_type": "account",
+    "label": "ACC-B47E840E",
+    "bank": "Axis",
+    "city": "Jaipur",
+    "balance": 315631,
+    "first_seen": "2026-04-20T11:02:49.590512",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-CE1ADA9B",
+    "node_type": "account",
+    "label": "ACC-CE1ADA9B",
+    "bank": "BOI",
+    "city": "Pune",
+    "balance": 115574,
+    "first_seen": "2026-02-25T11:02:49.590526",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-1D0232A1",
+    "node_type": "account",
+    "label": "ACC-1D0232A1",
+    "bank": "SBI",
+    "city": "Indore",
+    "balance": 422481,
+    "first_seen": "2026-04-03T11:02:49.590541",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-91C508FC",
+    "node_type": "account",
+    "label": "ACC-91C508FC",
+    "bank": "PNB",
+    "city": "Chennai",
+    "balance": 81516,
+    "first_seen": "2026-03-27T11:02:49.590560",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-52C9949D",
+    "node_type": "account",
+    "label": "ACC-52C9949D",
+    "bank": "HDFC",
+    "city": "Pune",
+    "balance": 50707,
+    "first_seen": "2026-03-09T11:02:49.590577",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-EEE272B9",
+    "node_type": "account",
+    "label": "ACC-EEE272B9",
+    "bank": "Kotak",
+    "city": "Indore",
+    "balance": 22780,
+    "first_seen": "2026-01-20T11:02:49.590591",
+    "ring_hint": 0
+  },
+  {
+    "id": "ACC-43C971C5",
+    "node_type": "account",
+    "label": "ACC-43C971C5",
+    "bank": "ICICI",
+    "city": "Ahmedabad",
+    "balance": 1701,
+    "first_seen": "2026-01-21T11:02:49.590764",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-83EC09B6",
+    "node_type": "account",
+    "label": "ACC-83EC09B6",
+    "bank": "ICICI",
+    "city": "Jaipur",
+    "balance": 478479,
+    "first_seen": "2026-04-10T11:02:49.590779",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-039B73AB",
+    "node_type": "account",
+    "label": "ACC-039B73AB",
+    "bank": "BOI",
+    "city": "Lucknow",
+    "balance": 104286,
+    "first_seen": "2026-04-04T11:02:49.590793",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-46700056",
+    "node_type": "account",
+    "label": "ACC-46700056",
+    "bank": "ICICI",
+    "city": "Jaipur",
+    "balance": 499908,
+    "first_seen": "2026-01-14T11:02:49.590807",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-EA6A7725",
+    "node_type": "account",
+    "label": "ACC-EA6A7725",
+    "bank": "SBI",
+    "city": "Lucknow",
+    "balance": 169951,
+    "first_seen": "2026-02-20T11:02:49.590819",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-70111D57",
+    "node_type": "account",
+    "label": "ACC-70111D57",
+    "bank": "PNB",
+    "city": "Patna",
+    "balance": 436032,
+    "first_seen": "2026-01-10T11:02:49.590832",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-7E6AC09B",
+    "node_type": "account",
+    "label": "ACC-7E6AC09B",
+    "bank": "SBI",
+    "city": "Hyderabad",
+    "balance": 460329,
+    "first_seen": "2026-02-10T11:02:49.590845",
+    "ring_hint": 1
+  },
+  {
+    "id": "ACC-BF67AE1F",
+    "node_type": "account",
+    "label": "ACC-BF67AE1F",
+    "bank": "SBI",
+    "city": "Surat",
+    "balance": 342598,
+    "first_seen": "2026-01-31T11:02:49.590971",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-0F3A5F08",
+    "node_type": "account",
+    "label": "ACC-0F3A5F08",
+    "bank": "Canara",
+    "city": "Nagpur",
+    "balance": 177892,
+    "first_seen": "2026-01-11T11:02:49.590986",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-9F1D39AF",
+    "node_type": "account",
+    "label": "ACC-9F1D39AF",
+    "bank": "Axis",
+    "city": "Hyderabad",
+    "balance": 281168,
+    "first_seen": "2026-02-25T11:02:49.590999",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-3AC8D6E2",
+    "node_type": "account",
+    "label": "ACC-3AC8D6E2",
+    "bank": "ICICI",
+    "city": "Chennai",
+    "balance": 242550,
+    "first_seen": "2026-03-23T11:02:49.591012",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-C887CE3F",
+    "node_type": "account",
+    "label": "ACC-C887CE3F",
+    "bank": "BOI",
+    "city": "Delhi",
+    "balance": 26522,
+    "first_seen": "2026-01-30T11:02:49.591025",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-7104618D",
+    "node_type": "account",
+    "label": "ACC-7104618D",
+    "bank": "SBI",
+    "city": "Delhi",
+    "balance": 485683,
+    "first_seen": "2026-01-17T11:02:49.591038",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-4CE7A0C9",
+    "node_type": "account",
+    "label": "ACC-4CE7A0C9",
+    "bank": "Canara",
+    "city": "Ahmedabad",
+    "balance": 252370,
+    "first_seen": "2026-03-27T11:02:49.591051",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-EC360673",
+    "node_type": "account",
+    "label": "ACC-EC360673",
+    "bank": "SBI",
+    "city": "Bangalore",
+    "balance": 198691,
+    "first_seen": "2026-04-23T11:02:49.591064",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-F0737EFE",
+    "node_type": "account",
+    "label": "ACC-F0737EFE",
+    "bank": "Union Bank",
+    "city": "Chennai",
+    "balance": 221777,
+    "first_seen": "2026-01-24T11:02:49.591077",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-491836DA",
+    "node_type": "account",
+    "label": "ACC-491836DA",
+    "bank": "Union Bank",
+    "city": "Bangalore",
+    "balance": 99561,
+    "first_seen": "2026-03-17T11:02:49.591091",
+    "ring_hint": 2
+  },
+  {
+    "id": "ACC-DEAC92D0",
+    "node_type": "account",
+    "label": "ACC-DEAC92D0",
+    "bank": "SBI",
+    "city": "Delhi",
+    "balance": 332547,
+    "first_seen": "2026-02-28T11:02:49.591235",
+    "ring_hint": 3
+  },
+  {
+    "id": "ACC-244CC961",
+    "node_type": "account",
+    "label": "ACC-244CC961",
+    "bank": "SBI",
+    "city": "Kolkata",
+    "balance": 404288,
+    "first_seen": "2026-04-07T11:02:49.591249",
+    "ring_hint": 3
+  },
+  {
+    "id": "ACC-0A6FFD5D",
+    "node_type": "account",
+    "label": "ACC-0A6FFD5D",
+    "bank": "ICICI",
+    "city": "Nagpur",
+    "balance": 231649,
+    "first_seen": "2026-02-12T11:02:49.591262",
+    "ring_hint": 3
+  },
+  {
+    "id": "ACC-FE4C9AD8",
+    "node_type": "account",
+    "label": "ACC-FE4C9AD8",
+    "bank": "SBI",
+    "city": "Delhi",
+    "balance": 39449,
+    "first_seen": "2025-12-24T11:02:49.591275",
+    "ring_hint": 3
+  },
+  {
+    "id": "ACC-8724ADD4",
+    "node_type": "account",
+    "label": "ACC-8724ADD4",
+    "bank": "ICICI",
+    "city": "Jaipur",
+    "balance": 18889,
+    "first_seen": "2026-01-07T11:02:49.591288",
+    "ring_hint": 3
+  },
+  {
+    "id": "ACC-91B56C6D",
+    "node_type": "account",
+    "label": "ACC-91B56C6D",
+    "bank": "BOI",
+    "city": "Bangalore",
+    "balance": 225332,
+    "first_seen": "2026-04-07T11:02:49.591301",
+    "ring_hint": 3
+  },
+  {
+    "id": "ACC-3FB5B800",
+    "node_type": "account",
+    "label": "ACC-3FB5B800",
+    "bank": "BOI",
+    "city": "Kolkata",
+    "balance": 492430,
+    "first_seen": "2026-04-20T11:02:49.591389",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-E269B675",
+    "node_type": "account",
+    "label": "ACC-E269B675",
+    "bank": "Kotak",
+    "city": "Bangalore",
+    "balance": 304396,
+    "first_seen": "2026-03-21T11:02:49.591402",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-04D6A469",
+    "node_type": "account",
+    "label": "ACC-04D6A469",
+    "bank": "BOB",
+    "city": "Pune",
+    "balance": 181239,
+    "first_seen": "2026-01-20T11:02:49.591415",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-1DF4C116",
+    "node_type": "account",
+    "label": "ACC-1DF4C116",
+    "bank": "BOB",
+    "city": "Jaipur",
+    "balance": 60631,
+    "first_seen": "2026-03-05T11:02:49.591429",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-1EEB241E",
+    "node_type": "account",
+    "label": "ACC-1EEB241E",
+    "bank": "Kotak",
+    "city": "Mumbai",
+    "balance": 371607,
+    "first_seen": "2026-02-27T11:02:49.591446",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-28208354",
+    "node_type": "account",
+    "label": "ACC-28208354",
+    "bank": "BOI",
+    "city": "Surat",
+    "balance": 377188,
+    "first_seen": "2025-12-24T11:02:49.591459",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-742D4DE5",
+    "node_type": "account",
+    "label": "ACC-742D4DE5",
+    "bank": "PNB",
+    "city": "Pune",
+    "balance": 36686,
+    "first_seen": "2026-01-28T11:02:49.591472",
+    "ring_hint": 4
+  },
+  {
+    "id": "ACC-C2CDFEAF",
+    "node_type": "account",
+    "label": "ACC-C2CDFEAF",
+    "bank": "ICICI",
+    "city": "Indore",
+    "balance": 364858,
+    "first_seen": "2026-02-16T11:02:49.591618",
+    "ring_hint": 5
+  },
+  {
+    "id": "ACC-806903B3",
+    "node_type": "account",
+    "label": "ACC-806903B3",
+    "bank": "BOI",
+    "city": "Hyderabad",
+    "balance": 481018,
+    "first_seen": "2026-01-05T11:02:49.591633",
+    "ring_hint": 5
+  },
+  {
+    "id": "ACC-EDD35C8C",
+    "node_type": "account",
+    "label": "ACC-EDD35C8C",
+    "bank": "ICICI",
+    "city": "Indore",
+    "balance": 243606,
+    "first_seen": "2026-01-28T11:02:49.591646",
+    "ring_hint": 5
+  },
+  {
+    "id": "ACC-B96D1757",
+    "node_type": "account",
+    "label": "ACC-B96D1757",
+    "bank": "BOB",
+    "city": "Kolkata",
+    "balance": 498094,
+    "first_seen": "2026-01-17T11:02:49.591659",
+    "ring_hint": 5
+  },
+  {
+    "id": "ACC-F3A406ED",
+    "node_type": "account",
+    "label": "ACC-F3A406ED",
+    "bank": "BOI",
+    "city": "Pune",
+    "balance": 435457,
+    "first_seen": "2025-12-28T11:02:49.591674",
+    "ring_hint": 5
+  }
+]
